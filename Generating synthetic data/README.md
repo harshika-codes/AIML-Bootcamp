@@ -1,1 +1,0 @@
-generating the synthetic data
